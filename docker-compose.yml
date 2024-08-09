@@ -1,4 +1,4 @@
-# docker-compose.yml
+
 version: '3'
 
 volumes:
@@ -11,6 +11,7 @@ services:
     env_file: .env
     volumes:
       - pg_data:/var/lib/postgresql/data
+
   backend:
     build: ./backend/
     env_file: .env
@@ -26,8 +27,9 @@ services:
 
   gateway:
     build: ./gateway/
-    env_file: .env
+    env_file: .env 
     volumes:
       - static:/staticfiles
     ports:
       - 8000:80
+      
