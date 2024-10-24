@@ -7,6 +7,7 @@
 - PostgreSQL
 - Django
 - Django REST Framework
+- HTML/CSS
 - Nginx
 - Docker
 - GitHub Actions
