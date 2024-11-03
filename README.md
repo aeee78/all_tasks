@@ -232,6 +232,7 @@ The frontend is built with React and Bootstrap.
 To run the entire application using Docker:
 
 1. Make sure Docker is installed and running on your machine.
+
 2. Build and run the containers:
     ```
     docker-compose up --build
