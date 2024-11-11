@@ -44,6 +44,17 @@
 └── README.md
 ```
 
+## Технологии:
+
+- Python
+- PostgreSQL
+- Django
+- Django REST Framework
+- HTML/CSS
+- Nginx
+- Docker
+- GitHub Actions
+
 ## Бэкенд
 
 Бэкенд построен с использованием Django и Django REST framework.
@@ -164,6 +175,17 @@ This project is a full-stack Task Management Application built using Django for 
 ├── LICENSE
 └── README.md
 ```
+
+## Technologies:
+
+- Python
+- PostgreSQL
+- Django
+- Django REST Framework
+- HTML/CSS
+- Nginx
+- Docker
+- GitHub Actions
 
 ## Backend
 
