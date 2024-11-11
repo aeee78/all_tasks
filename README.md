@@ -1,5 +1,5 @@
 ## RU
-# All_tasks
+# tasks_manager
 
 Этот проект - полнофункциональное приложение для управления задачами, созданное с использованием Django для бэкенда и React для фронтенда.
 
@@ -131,7 +131,7 @@
 
 ---
 ## EN
-# All_tasks
+# tasks_manager
 
 This project is a full-stack Task Management Application built using Django for the backend and React for the frontend.
 
