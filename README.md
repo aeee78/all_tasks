@@ -1,3 +1,4 @@
+## RU
 # All_tasks
 
 Этот проект - полнофункциональное приложение для управления задачами, созданное с использованием Django для бэкенда и React для фронтенда.
@@ -110,10 +111,6 @@
     docker-compose up --build
     ```
 
-## Лицензия
-
-Этот проект лицензирован на условиях лицензии MIT - см. файл [LICENSE](LICENSE) для деталей.
-
 ## Благодарности
 
 - [Django](https://www.djangoproject.com/)
@@ -121,10 +118,8 @@
 - [Bootstrap](https://getbootstrap.com/)
 - [Docker](https://www.docker.com/)
 
-
-
-
-
+---
+## EN
 # All_tasks
 
 This project is a full-stack Task Management Application built using Django for the backend and React for the frontend.
@@ -237,10 +232,6 @@ To run the entire application using Docker:
     ```
     docker-compose up --build
     ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
